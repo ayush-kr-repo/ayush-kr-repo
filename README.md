@@ -20,14 +20,14 @@ End-to-end Formula 1 race prediction platform using FastF1, XGBoost, SHAP, tempo
 
 Repo: https://github.com/ayush-kr-repo/raceiq-f1-intelligence
 
-### AtmosIntel - Hyper-Local AQI Intelligence Platform
+### AtmosIntel AQI Intelligence- Hyper-Local AQI Intelligence Platform
 Geospatial AQI intelligence system that converts sparse monitoring-station data into ward-level pollution insights.
 
 - Used 11,233 AQI records from 47 monitoring stations and 251 Delhi ward polygons.
 - Implemented IDW interpolation with SciPy cKDTree for spatial estimation.
 - Generated interactive Folium maps, ward-level alerts, and mitigation recommendations.
 
-Repo: https://github.com/ayush-kr-repo/AtmosIntel
+Repo: https://github.com/ayush-kr-repo/Atmosintel-aqi-intelligence
 
 ### DrugWatch - Drug Expiry Management System
 Flask + SQLite pharmacy inventory, expiry alert, billing, and audit-log management system.
