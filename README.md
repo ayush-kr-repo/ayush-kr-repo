@@ -53,4 +53,4 @@ ML/AI internship opportunities where I can work on applied machine learning, dat
 ## Contact
 
 Email: ayushmvm9@gmail.com  
-LinkedIn: https://linkedin.com/in/ayush-kumar
+LinkedIn: https://www.linkedin.com/in/ayush-kumar-74a67730a/
