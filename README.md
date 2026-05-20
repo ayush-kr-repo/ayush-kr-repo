@@ -177,7 +177,7 @@ ayush = {
 
 | Paper | Venue | Status |
 |-------|-------|--------|
-| *(title)* | **ICDCIT 2026** — International Conference on Distributed Computing and Internet Technology | ✅ Accepted · Proceedings copy incoming |
+| *(TENSORFLOW QUANTUM FOR STRATEGIC SIMULATIONS: INTEGRATING QUANTUM GAME THEORY AND AI)* | **ICDCIT 2026** — International Conference on Distributed Computing and Internet Technology | ✅ Accepted · Proceedings copy incoming |
 
 ---
 
