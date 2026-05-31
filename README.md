@@ -163,7 +163,7 @@ ayush = {
 
 <img height="180em" src="https://github-readme-stats-gamma-one-32.vercel.app/api?username=ayush-kr-repo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&cache_seconds=1800" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats-gamma-one-32.vercel.app/api/top-langs/?username=ayush-kr-repo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=6&cache_seconds=1800&hide=html,css,javascript" />
+<img height="180em" src="https://github-readme-stats-gamma-one-32.vercel.app/api/top-langs/?username=ayush-kr-repo&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=6&cache_seconds=1800&hide=html,css,javascript,jupyter%20notebook" />
 
 <br/><br/>
 
