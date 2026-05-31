@@ -5,7 +5,7 @@
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems;Applied+AI+%7C+Feature+Engineering+%7C+SHAP;F1+Predictions+%7C+AQI+Intelligence;Open+to+ML%2FAI+Internships+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+end-to-end+ML+systems;Applied+AI+%7C+Feature+Engineering+%7C+SHAP;F1+Predictions+%7C+AQI+Intelligence;Open+to+ML%2FAI+Internships" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,51 +67,53 @@ ayush = {
 <br/>
 
 <details>
-<summary><b>🌫️ AtmosIntel — Hyper-Local AQI Intelligence Platform</b></summary>
+<summary><b>🌍 EcoSentinels — AI Environmental Intelligence Platform</b></summary>
 
 <br/>
 
-> Geospatial ML system that converts sparse monitoring data into ward-level pollution intelligence for an entire city.
+> AI-powered ecosystem risk monitoring platform built for the Kaggle Gemma 4 Good Hackathon — real-time AQI data, RAG-grounded field briefings, and multi-language community alerts.
 
 | Metric | Value |
 |--------|-------|
-| 📦 Dataset | 11,233 AQI records · 47 stations · 251 Delhi ward polygons |
-| 📐 Interpolation | IDW via SciPy cKDTree |
-| 🗺️ Output | Interactive Folium maps + ward-level alerts |
-| ⚙️ Stack | GeoPandas · SciPy · Folium · Matplotlib |
+| 🤖 LLM | Gemma 4 (26B) via Google AI |
+| 🧠 RAG | ChromaDB · 78 chunks · 7 knowledge docs |
+| 🌐 Agents | DataAgent · AnalystAgent · AlertAgent |
+| ⚙️ Stack | FastAPI · React · TypeScript · LangChain · Vercel |
 
 **What's under the hood:**
-- Spatial interpolation pipeline bridging station data to arbitrary ward polygons
-- Automated threshold alerts and mitigation recommendation engine
-- End-to-end geospatial data pipeline from raw CSVs to interactive maps
+- Multi-agent pipeline — live AQI + weather ingestion, RAG retrieval, alert generation
+- Community field briefings with threat level, evidence, and immediate actions
+- Multi-language translation into 8 languages via Gemma 4
+- Offline fallback — frontend degrades gracefully when backend is unreachable
 
-[![Repo](https://img.shields.io/badge/GitHub-AtmosIntel-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-kr-repo/Atmosintel-aqi-intelligence)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eco-sentinels-frontend.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-EcoSentinels-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-kr-repo/EcoSentinels)
 
 </details>
 
 <br/>
 
 <details>
-<summary><b>💊 DrugWatch — Drug Expiry Management System</b></summary>
+<summary><b>🛡️ TrainSentry — AI-Assisted ML Training Log Analyzer</b></summary>
 
 <br/>
 
-> Production-grade pharmacy inventory system built for a DBMS course — then taken far beyond course requirements.
+> Developer tool that automates the first debugging pass of ML training runs — rules engine for anomaly detection, Gemini-powered debugging narratives, CLI and Streamlit dashboard.
 
 | Metric | Value |
 |--------|-------|
-| 🗃️ Database | 9 tables · 4 views · 4 triggers · ACID transactions |
-| 👥 Roles | Admin + Pharmacist with separate workflows |
-| 📦 Catalog | 248,000+ medicine records from Kaggle |
-| ⚙️ Stack | Flask · SQLite · ReportLab |
+| 🔍 Detects | Overfitting · Val spikes · Stagnation · Metric drift · Leakage signals |
+| 🤖 AI Reports | Gemini 1.5 Flash — root cause analysis + prioritised action plan |
+| 🧪 Testing | pytest suite + GitHub Actions CI |
+| ⚙️ Stack | Python · Pandas · Streamlit · Plotly · Gemini API |
 
 **What's under the hood:**
-- Role-based access control with session management
-- Expiry alert system, stock movement tracking, billing engine
-- PDF receipt generation via ReportLab
-- Full audit log with trigger-based change tracking
+- Rules engine detects 5 training failure modes with evidence and recommendations
+- AI report mode sends structured findings to Gemini for cross-finding root cause analysis
+- Graceful fallback — works fully offline without an API key
+- CLI with `analyze` and `compare` subcommands + `--save` flag for report export
 
-[![Repo](https://img.shields.io/badge/GitHub-DrugWatch-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-kr-repo/Drug-Expiry-Management-System)
+[![Repo](https://img.shields.io/badge/GitHub-TrainSentry-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayush-kr-repo/TrainSentry)
 
 </details>
 
@@ -138,12 +140,19 @@ ayush = {
 ![SHAP](https://img.shields.io/badge/SHAP-7c3aed?style=for-the-badge&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-0064FF?style=for-the-badge&logoColor=white)
 
+**AI / LLM**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logoColor=white)
+
 **Visualization & Backend**
 
 [![Streamlit](https://skillicons.dev/icons?i=streamlit)](https://streamlit.io)&nbsp;
 [![Flask](https://skillicons.dev/icons?i=flask)](https://flask.palletsprojects.com)&nbsp;
+[![FastAPI](https://skillicons.dev/icons?i=fastapi)](https://fastapi.tiangolo.com)&nbsp;
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev)&nbsp;
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com)
-[![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logoColor=white)](https://python-visualization.github.io/folium/)
 
 **Tools**
 
