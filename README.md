@@ -183,8 +183,8 @@ ayush = {
 ### ⚡ Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/u/rQSuARvakq/">
-    <img src="https://leetcard.jacoblin.cool/rQSuARvakq?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/u/ayush-kr/">
+    <img src="https://leetcard.jacoblin.cool/ayush-kr?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </p>
 
