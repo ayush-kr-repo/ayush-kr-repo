@@ -183,7 +183,9 @@ ayush = {
 ### ⚡ Coding Profiles
 
 <p align="center">
-  <img src="https://vercel.app" alt="LeetCode Profile Card" />
+  <a href="https://leetcode.com/u/rQSuARvakq/">
+    <img src="https://leetcard.jacoblin.cool/rQSuARvakq?theme=dark&font=JetBrains%20Mono&ext=heatmap" alt="LeetCode Stats" />
+  </a>
 </p>
 
 ---
