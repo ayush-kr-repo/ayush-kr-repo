@@ -36,6 +36,28 @@ ayush = {
 }
 ```
 
+## 🌐 Open Source
+
+**16 merged PRs across 4 repositories** · GSSoC 2026 · May–Aug 2026
+
+Twelve of these landed in one codebase — [AegisGraph Sentinel](URL), a GNN-based
+fraud detection platform — where I owned the explainability and model-trust layer.
+Several PRs replaced explanation and monitoring components that were returning
+fabricated values: mock counterfactuals scored with `random.uniform`, drift
+baselines drawn from unseeded `np.random`, and a data loader that advertised
+leakage prevention while splitting randomly.
+
+| Repo | Merged | Area |
+|---|---|---|
+| [AegisGraph Sentinel 2.0](URL) | 12 | XAI pipeline, calibration, training integrity |
+| [AegisAI](URL) | 2 | API endpoints, integration tests |
+| [CodeGraphContext](URL) | 1 | CLI error propagation |
+| [HELPDESK.AI](URL) | 1 | Unit tests for classifier service |
+
+7 of 16 rated **Advanced** by maintainers · 3 rated *quality:exceptional* or *clean*
+
+[→ Case study: 12 PRs into AegisGraph Sentinel](URL) ·
+[→ All merged PRs](https://github.com/pulls?q=is%3Apr+author%3Aayush-kr-repo+is%3Amerged+-user%3Aayush-kr-repo)
 ---
 
 ## 🚀 Featured Projects
